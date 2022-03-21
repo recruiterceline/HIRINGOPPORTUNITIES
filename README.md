@@ -2,6 +2,7 @@
 I am hiring top talents! Connect with me to know more about the opportunities!
 
 > **Restaurant Systems Analyst**
+  
   About the Opportunity:
   - Handles creation, programming, testing and deployment of restaurant systems and applications across all restaurants
   - Manages the overall technical administration, resolves systems related concerns in a timely manner, and prepares reports to submit to concerned departments
@@ -15,12 +16,13 @@ I am hiring top talents! Connect with me to know more about the opportunities!
 
 
  > **Salesforce Marketing Cloud Consultant**
+ 
   About the Opportunity:
   - Be the subject matter expert with regards to Salesforce Marketing Cloud configuration and implementation
   - Manages the technical side of the organization’s CRM implementation and customer information database
   - Works with cross-functional teams in delivering technical perspective on CRM projects and ensures proper implementation and integration with other company systems
   - Reviews user and behavior data to come up with technical decisions that will help drive business innovation
-  - Drives innovation by based on customer needs and encourages continuous improvement in customer experience Manages and generates reports and provides insight into customer behavior
+  - Drives innovation by based on customer needs and encourages continuous improvement in customer experience Manages and generates reports and provides insight into   customer behavior
 
   Additional Qualification:
   - Certified in Sales Force Marketing Cloud 
@@ -28,6 +30,7 @@ I am hiring top talents! Connect with me to know more about the opportunities!
 
 
   > **E-commerce Consultant**
+ 
   About the Opportunity:
   - Deploys in-store related technologies to contribute to the scaling of cashless transactions and acceptance
   - Works with internal stakeholders in scaling and fulfilling cashless acceptance, and onboards new partners to enable cashless payments
@@ -38,6 +41,7 @@ I am hiring top talents! Connect with me to know more about the opportunities!
 
 
   > **Corporate Systems Administrator**
+ 
   About the Opportunity:
   - Monitors and maintains IT systems, services and hardware to ensure operational functionality and efficiency of IT infrastructure systems 
   - Manages issues to effectively support the corporate system and infrastructure
@@ -47,7 +51,8 @@ I am hiring top talents! Connect with me to know more about the opportunities!
 
 
   > **DevOps Engineer**
-  About the Opportunity:
+ 
+ About the Opportunity:
   - Responsible for the design, implementation and maintenance of applications
   - Bridges gap between infrastruture and application
   - Monitors, reviews and analyzes infrastructure and application performance, provides recommendations and coordinates with service providers to ensure smooth operations
@@ -56,7 +61,8 @@ I am hiring top talents! Connect with me to know more about the opportunities!
 
 
   > **Database Administrator**
-  About the Opportunity:
+ 
+ About the Opportunity:
   - Administers daily operational tasks and activities to maintain the performance and availability of database and application systems
   - Ensures data accuracy, security and availability across the organization
   - Monitors database growth, trends, and performance regularly to minimize database downtime
@@ -65,6 +71,7 @@ I am hiring top talents! Connect with me to know more about the opportunities!
 
 
   > **Database Administrator**
+  
   About the Opportunity:
   - Administers daily operational tasks and activities to maintain the performance and availability of database and application systems
   - Ensures data accuracy, security and availability across the organization
@@ -77,6 +84,7 @@ I am hiring top talents! Connect with me to know more about the opportunities!
   - DB/Microsoft Certification is an advantage
 
   > **Network and Collaboration Consultant**
+  
   About the Opportunity:
   - Oversees the design, architecture, implementation, and security of variety of communication and collaboration tools of the organization
   - Designs and implements best practices for collaboration solution deployment
@@ -88,7 +96,8 @@ I am hiring top talents! Connect with me to know more about the opportunities!
   - Preferably with 5 years experience in managing Cloud-based email and collaboration systems, particularly on Microsoft Office 365
 
   > **Data Engineer**
-  About the Opportunity:
+ 
+ About the Opportunity:
   - Manages the functionality of data across systems & application and ensures integration is customized to the organization's unique business needs
   - Understands data behavior and designs data workflows and ETL architecture
   - Develops, implements, and monitors data flow and ETL jobs from different data sources to various targets
